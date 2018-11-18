@@ -13,7 +13,7 @@
 			td:hover,td:focus{color:#fff;background:#555;}
 			td.input_none{cursor:none;}
 			td.input_none:hover,td.input_none:focus{background:none;color:none;}
-			td.total{background:#888;color:#fff;}
+			td.total{background:#555;color:#fff;}
     </style>
 </head>
 <body>
